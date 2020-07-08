@@ -1,2 +1,2 @@
 # Cognition-Deploy-Tool
-Simple GUI to handle Cognition Test Deploys
+Deploy GUI Tool I created for deploying dev branches to our staging environment.
